@@ -1,4 +1,4 @@
-bNázev webu:
+Název webu:
 Minecraft Server MineHeart styl
 
 ----------------------------------
