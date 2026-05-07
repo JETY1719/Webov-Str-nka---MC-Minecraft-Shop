@@ -1,57 +1,64 @@
-Název webu:
-Minecraft Server MineHeart styl
+Web name: HeartSteal
+Minecraft Server MineHeart style
 
 ----------------------------------
 
 Menu (podstránky):
-1. Domů
-2. O nás
-3. Blog
-4. Kontakt
-5. Shop (Ingame itemy)
-6. VIP výhody
-7. Pravidla
-8. Galerie
-9. FAQ
-10. Admin tým
+
+1. Home
+2. About us
+3. Ranks
+4. Contacts
+5. Support
+6. Keys
+7. Rules
+8. Gallery
+9. Staff application
+10. Admin team
 
 ----------------------------------
 
 Popis stránek:
 
-Domů:
+Home:
 - úvodní text
 - info o serveru
-- tlačítko připojit se
+- jak se připojit
 
-O nás:
+About us:
 - kdo jsme
 - historie serveru
 
-Blog:
+Ranks:
 - novinky
 - aktualizace
+- balancování hry
 
-Kontakt:
+Contacts:
 - email
 - discord
 
-Shop:
-- seznam itemů
-- ceny
+Support:
+- neúspěšné platby
+- nahlašování hackerů ve hře
 
-VIP výhody:
-- co VIP hráč dostane
+Keys:
+- pay2win klíče a jejich ceny
+- několik různých
 
-Pravidla:
+Rules:
 - pravidla serveru
+- tresty za různé přestupky
 
-Galerie:
+Gallery:
 - obrázky ze hry
+- videa/fotky z eventů
 
-FAQ:
-- otázky a odpovědi
+Staff Application:
+- jak se stát pomocníkem
+- plat nejvyšších adminů
 
-Admin tým:
+Admin team:
 - seznam adminů
 - jejich role
+- jak jdou role postupně
